@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IconRico.iml" filepath="$PROJECT_DIR$/IconRico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rico-assembler/rico-assembler.iml" filepath="$PROJECT_DIR$/rico-assembler/rico-assembler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rico-domain/rico-domain.iml" filepath="$PROJECT_DIR$/rico-domain/rico-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rico-web/rico-web.iml" filepath="$PROJECT_DIR$/rico-web/rico-web.iml" />
+    </modules>
+  </component>
+</project>

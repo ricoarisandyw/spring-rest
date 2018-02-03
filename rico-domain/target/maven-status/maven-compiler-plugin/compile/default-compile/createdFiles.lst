@@ -1,0 +1,4 @@
+com\ricoaw\entity\StudentDto.class
+com\ricoaw\model\BaseModel.class
+com\ricoaw\repository\StudentRepository.class
+com\ricoaw\entity\Student.class
